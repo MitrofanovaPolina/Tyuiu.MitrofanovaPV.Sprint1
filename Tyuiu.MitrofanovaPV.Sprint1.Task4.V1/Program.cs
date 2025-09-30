@@ -9,7 +9,7 @@ namespace Tyuiu.MitrofanovaPV.Sprint1.Task4.V1
             Console.Title = "Спринт #1 | Выполнила: Митрофанова П.В. | ПИНб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
+            Console.WriteLine("* Тема: Class Math                                                        *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнила: Митрофанова Полина Викторовна | ПИНб-25-1                    *");
