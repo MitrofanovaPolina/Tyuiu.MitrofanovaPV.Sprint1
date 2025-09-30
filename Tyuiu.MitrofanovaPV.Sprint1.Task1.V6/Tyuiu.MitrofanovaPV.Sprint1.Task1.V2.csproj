@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="zl4xq3qg.lky~" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Tyuiu.MitrofanovaPV.Sprint1.Task1.V6.Lib\Tyuiu.MitrofanovaPV.Sprint1.Task1.V2.Lib.csproj" />
   </ItemGroup>
 
