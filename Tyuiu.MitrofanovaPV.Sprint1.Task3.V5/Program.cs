@@ -11,7 +11,7 @@ namespace Tyuiu.MitrofanovaPV.Sprint1.Task3.V5
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
             Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #5                                                             *");
+            Console.WriteLine("* Вариант #5                                                              *");
             Console.WriteLine("* Выполнила: Митрофанова Полина Викторовна | ПИНб-25-1                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
