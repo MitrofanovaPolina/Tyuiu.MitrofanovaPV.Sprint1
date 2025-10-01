@@ -6,7 +6,7 @@ namespace Tyuiu.MitrofanovaPV.Sprint1.Task7.V22.Lib
         public double Calculate(double x, double y)
         {
             double z = Math.Pow(1 - Math.Tan (x),1 / Math.Tan(x)) + Math.Cos(x - y);
-            return z;
+            return Math.Round(z, 3);
         }
     }
 }

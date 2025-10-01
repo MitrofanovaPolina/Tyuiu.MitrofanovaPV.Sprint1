@@ -11,7 +11,7 @@ namespace Tyuiu.MitrofanovaPV.Sprint1.Task7.V22.Test
             double x = 45;
             double y = 45;
             double z = 1;
-            var res = ds.Calculate(x, y);
+            var res = Math.Round(ds.Calculate(x, y), 3);
             Assert.AreEqual(z, res);
         }
     }
